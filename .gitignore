@@ -16,7 +16,7 @@ env/
 
 # IDE
 .idea/
-
+.idea
 # pytest
 .pytest_cache/
 
